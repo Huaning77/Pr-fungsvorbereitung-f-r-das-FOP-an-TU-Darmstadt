@@ -1,0 +1,60 @@
+Basis/Datentypen.java
+ Basis.DatentypenKomplex
+Basis/Schleife.java
+ Basis.Array1
+ Basis.Bedingungsoperator
+ Basis.BreakUndContinue
+ Basis.DoWhileSchleife
+ Basis.ForSchleife
+ Basis.IfAnweisung
+ Basis.SwitchAnweisung
+ Basis.WhileSchleife
+Basis/Enumeration.java
+ Basis.Jahreszeit
+Basis/ExceptionBlock.java
+ Basis.ExceptionLambda
+ Basis.ExceptionLambda$MyBinaryIntFunction
+ Basis.ExceptionSelbstDefinition
+ Basis.ExceptionUeberschreiben1
+ Basis.ExceptionUeberschreiben2
+ Basis.ExceptionWeiterreichen
+ Basis.Fehlerbehandlung
+ Basis.MehrereExceptions
+Basis/Vererbung.java
+ Basis.Basic
+ Basis.Direction
+ Basis.Vererbung
+ Basis.VererbungArray
+Basis/Zugriffsrechte.java
+ Basis.Zugriffsrechte
+Basis/Main.java
+ Basis.Main
+ Basis.Main$1
+Basis/Klassen.java
+ Basis.DefinierenVSInitialisieren
+ Basis.DefinierenVSInitialisieren1
+ Basis.Identifier
+ Basis.Initializer
+ Basis.Klassen
+ Basis.KlassenAbstract
+ Basis.Methoden
+ Basis.MethodenUeberladen
+ Basis.MethodenUeberschreiben
+ Basis.MethodenUeberschreibenExtend
+Basis/Interface.java
+ Basis.IntToDoubleFunction1
+ Basis.IntToDoubleFunction2
+ Basis.IntToDoubleFunctionImpl
+ Basis.IntToDoubleFunctionImplAufruf
+ Basis.Interface1
+ Basis.Interface2
+ Basis.Interface3
+ Basis.Interface4
+ Basis.InterfaceImpl1
+ Basis.InterfaceImpl2
+ Basis.InterfaceImpl3
+ Basis.LambdaAusfuerung
+Generics/WrapperKlassen.java
+ Generics.WrapperKlassen
+Generics/Main.java
+ Generics.Main
